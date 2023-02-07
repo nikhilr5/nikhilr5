@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhilr5
-- 👀 I’m interested in Artificial Intelligence specifically modeling in quantative finance.
+- 👀 I’m interested in machine learning specifically modeling in quantative finance and NLP.
 - 🌱 I’m currently learning about parallel computing
 - 📫 How to reach me https://www.nikhil-richard.com/
 
