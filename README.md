@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nikhilr5
-- 👀 I’m interested in Artificial Intelligence and Algorithms
+- 👀 I’m interested in Artificial Intelligence specifically modeling in quantative finance.
 - 🌱 I’m currently learning about parallel computing
-- 💞️ I’m looking to collaborate...
-- 📫 How to reach me nikhil.richard84@gmail.com
+- 📫 How to reach me https://www.nikhil-richard.com/
 
 <!---
 nikhilr5/nikhilr5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
